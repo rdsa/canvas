@@ -1,0 +1,12 @@
+body, canvas{
+    background-color: #000;
+}
+
+#loader{
+    position: absolute;
+    width: 40vw;
+    height: 40vh;
+    top: 50%;
+    left: 50%;
+    margin: -20vh 0 0 -20vw;
+}

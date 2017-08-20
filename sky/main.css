@@ -1,0 +1,14 @@
+body{
+    margin: 0 auto;
+    background-color: #0f1219;
+}
+
+canvas {
+    background-color: #0f1219;
+    width: 99vw;
+    height: 99vh;
+}
+
+.transparent{
+   background-color: transparent;
+}
